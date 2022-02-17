@@ -11,7 +11,7 @@
 * 📫 𝘏𝘰𝘸 𝘵𝘰 𝘳𝘦𝘢𝘤𝘩 𝘮𝘦: **𝘩𝘵𝘵𝘱𝘴://𝘵.𝘮𝘦/𝘫𝘰𝘪𝘯𝘤𝘩𝘢𝘵/𝘚-𝘥𝘺𝘡-𝘔𝘣𝘒𝘠𝘹𝘬𝘖𝘞𝘕𝘭** 
 * ☘ 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 **𝘓𝘢𝘸**
 
-<p><img alt="GitHub metrics" src="https://metrics.lecoq.io/Oreomeow"/> <img alt="Morning" src="https://github.com/Oreomeow/Oreomeow/blob/main/morning.png" width="300"/></p>
+![Metrics](https://metrics.lecoq.io/Oreomeow?template=classic&base.header=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai) <img alt="Morning" src="https://github.com/Oreomeow/Oreomeow/blob/main/morning.png" width="300"/></p>
 
 <p><img alt="GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Oreomeow"/> <img alt="Afternoon" src="https://github.com/Oreomeow/Oreomeow/blob/main/afternoon.png" width="270"/></p>
 
