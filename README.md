@@ -12,6 +12,3 @@
 <p align="center"><img alt="Morning" src="https://github.com/Oreomeow/Oreomeow/blob/main/morning.png" width="200">
 <img alt="Afternoon" src="https://github.com/Oreomeow/Oreomeow/blob/main/afternoon.png" width="200">
 <img alt="Evening" src="https://github.com/Oreomeow/Oreomeow/blob/main/evening.png" width="200">
-<img alt="Dream" src="https://github.com/Oreomeow/Oreomeow/blob/main/dream.png" width="270"><p>
-
-
